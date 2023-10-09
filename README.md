@@ -1,5 +1,5 @@
 # Hi there, I'm Raghav 👋
 `I'm a Developer and an Engineer!`
 
-Currently PreFinal Year Student at **_NIT Jalandhar_.**
-Pursuing ECE along with Minor Degree in CSE.
+Currently working as **_Associate Software Developer_.** at **_Oracle_.**
+Graduated from NIT Jalandhar
